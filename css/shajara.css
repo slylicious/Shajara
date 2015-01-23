@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background:#478cd1;
+	margin-bottom: 60px;
+	
+}
+
+.logo
+{
+	margin:5%
+}
+.logo img
+{
+	max-width:220px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #478cd1;
+  color:#fff;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+#login_err
+{
+	color:#F00;
+}
+
+
+.adminlogo
+{
+	margin:5%
+}
+.adminlogo img
+{
+	max-width:120px;
+}
